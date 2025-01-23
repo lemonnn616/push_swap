@@ -96,7 +96,3 @@ pa
 
 ---
 
-## 📜 License
-
-This project is part of the 42 School curriculum. All rights reserved.
-
